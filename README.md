@@ -263,6 +263,12 @@ Softwares</b>
 <br>
 •	https://interfaces.pro/
 <br>
+•	https://www.siteinspire.com/
+<br>
+•	https://www.webdesign-inspiration.com/
+<br>
+•	https://www.thebestdesigns.com/
+<br>
 •	https://mobbin.design/
 <br>
 •	https://scrnshts.club/
