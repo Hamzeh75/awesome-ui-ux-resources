@@ -2,13 +2,13 @@
 <h1>لیست بهترین منابع و ابزارها برای طراحان رابط کاربری</h1>
 <br><br><br><br>
 
-Books (Persian)
+<b>Books (Persian) </b>
 <br>
 •	طراحی تجربه‌کاربری برای مبتدیان  (The Basics of User Experience Design)
 <br>
 •	مبانی طراحی تجربه کاربری (UX for Beginners)
 <br><br><br><br>
-Books (English)
+<b>Books (English) </b>
 <br>
 •	100 Things Every Designer Needs to Know About People
 <br>
@@ -26,7 +26,7 @@ Books (English)
 <br>
 •	Don’t Make Me Think	
 <br><br><br><br>
-Youtube Channels for designers
+<b>Youtube Channels for designers</b>
 <br>
 •	The Futur
 o	https://www.youtube.com/channel/UC-b3c7kxa5vU-bnmaROgvog
@@ -43,7 +43,7 @@ o	https://www.youtube.com/user/CalerEdwards
 •	AJ&Smart
 o	https://www.youtube.com/channel/UCeB_OpLspKJGiKv1CYkWFFw/videos
 <br><br><br><br>
-Instagram Pages
+<b>Instagram Pages</b>
 <br>
 •	@thefuturishere
 <br>
@@ -63,7 +63,7 @@ Instagram Pages
 <br>
 •	@amirome (Persian)
 <br><br><br><br>
-News and Articles
+<b>News and Articles</b>
 <br>
 •	https://www.designasor.com/
 <br>
@@ -71,7 +71,7 @@ News and Articles
 <br>
 •	https://www.designernews.co/
 <br><br><br><br>
-Softwares
+Softwares</b>
 <br>
 •	Adobe XD (Mac and windows)
 <br>
@@ -83,7 +83,7 @@ Softwares
 <br>
 •	Adobe Illustrator (Mac and windows)
 <br><br><br><br>
-Adobe XD plugins
+<b>Adobe XD plugins</b>
 <br>
 •	Sympli Handoff
 <br>
@@ -119,7 +119,7 @@ Adobe XD plugins
 <br>
 •	Uilogos
 <br><br><br><br>
-Google Chrome extensions
+<b>Google Chrome extensions</b>
 <br>
 •	CSS peeper
 <br>
@@ -131,7 +131,7 @@ Google Chrome extensions
 <br>
 •	Muzli
 <br><br><br><br>
-Social Networks for UI-UX Designers
+<b>Social Networks for UI-UX Designers</b>
 <br>
 •	https://dribbble.com/
 <br>
@@ -141,7 +141,7 @@ Social Networks for UI-UX Designers
 <br>
 •	https://www.linkedin.com/
 <br><br><br><br>
-Icons
+<b>Icons</b>
 <br>
 •	https://www.flaticon.com/
 <br>
@@ -157,7 +157,7 @@ Icons
 <br>
 •	https://fontawesome.com/
 <br><br><br><br>
-Vectors
+<b>Vectors</b>
 <br>
 •	https://undraw.co/illustrations
 <br>
@@ -177,11 +177,11 @@ Vectors
 <br>
 •	https://www.humaaans.com/
 <br><br><br><br>
-Maps
+<b>Maps</b>
 <br>
 •	https://snazzymaps.com/
 <br><br><br><br>
-Colors
+<b>Colors</b>
 <br>
 •	https://www.materialui.co/colors
 <br>
@@ -197,7 +197,7 @@ Colors
 <br>
 •	https://gradienthunt.com/
 <br><br><br><br>
-Mockups
+<b>Mockups</b>
 <br>
 •	https://www.mockupworld.co/
 <br>
@@ -209,7 +209,7 @@ Mockups
 <br>
 •	https://www.rotato.xyz/
 <br><br><br><br>
-Stock photos
+<b>Stock photos</b>
 <br>
 •	https://unsplash.com/
 <br>
@@ -223,11 +223,11 @@ Stock photos
 <br>
 •	https://downloader.la/
 <br><br><br><br>
-Video
+<b>Video</b>
 <br>
 •	https://www.pond5.com/
 <br><br><br><br>
-Fonts
+<b>Fonts</b>
 <br>
 •	https://fonts.google.com/
 <br>
@@ -249,7 +249,7 @@ Fonts
 <br>
 •	https://fontiran.com/
 <br><br><br><br>
-Inspiration
+<b>Inspiration</b>
 <br>
 •	https://dribbble.com/
 <br>
@@ -269,7 +269,7 @@ Inspiration
 <br>
 •	https://www.awwwards.com/
 <br><br><br><br>
-Collaboration
+<b>Collaboration</b>
 <br>
 •	https://app.sympli.io/
 <br>
