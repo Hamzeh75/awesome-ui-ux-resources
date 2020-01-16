@@ -1,5 +1,5 @@
-<h1>Awesome UI-UX resources<h1>
-<h1>لیست بهترین منابع و ابزارها برای طراحان رابط کاربری<h1>
+<h1>Awesome UI-UX resources</h1>
+<h1>لیست بهترین منابع و ابزارها برای طراحان رابط کاربری</h1>
 <br><br><br><br>
 
 Books (Persian)
