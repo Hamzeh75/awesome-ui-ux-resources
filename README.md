@@ -247,7 +247,7 @@ Softwares</b>
 <br>
 •	https://fount.artequalswork.com/
 <br>
-•	https://fontiran.com/
+•	https://fontiran.com/ (Persian)
 <br><br><br><br>
 <b>Inspiration</b>
 <br>
