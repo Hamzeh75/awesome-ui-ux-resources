@@ -26,7 +26,7 @@
 <br>
 •	Don’t Make Me Think	
 <br><br><br><br>
-<b>Youtube Channels for designers</b>
+<b>Youtube Channels</b>
 <br>
 •	The Futur
 o	https://www.youtube.com/channel/UC-b3c7kxa5vU-bnmaROgvog
@@ -65,11 +65,11 @@ o	https://www.youtube.com/channel/UCeB_OpLspKJGiKv1CYkWFFw/videos
 <br><br><br><br>
 <b>News and Articles</b>
 <br>
-•	https://www.designasor.com/
+•	https://www.designasor.com/ (Persian)
 <br>
 •	https://uxplanet.org/
 <br>
-•	https://www.designernews.co/
+•	https://www.designernews.co/ 
 <br><br><br><br>
 Softwares</b>
 <br>
@@ -131,7 +131,7 @@ Softwares</b>
 <br>
 •	Muzli
 <br><br><br><br>
-<b>Social Networks for UI-UX Designers</b>
+<b>Social Networks</b>
 <br>
 •	https://dribbble.com/
 <br>
