@@ -9,7 +9,8 @@ Books (Persian)
 <br>
 •	مبانی طراحی تجربه کاربری (UX for Beginners)
 <br><br><br><br>
-(English)
+Books (English)
+<br>
 •	100 Things Every Designer Needs to Know About People
 <br>
 •	Lean UX
