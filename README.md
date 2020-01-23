@@ -215,13 +215,13 @@ Softwares</b>
 <br>
 •	https://www.pexels.com/
 <br>
-https://www.lifeofpix.com/
+•	https://www.lifeofpix.com/
 <br>
-https://burst.shopify.com/
+•	https://burst.shopify.com/
 <br>
-https://kaboompics.com/
+•	https://kaboompics.com/
 <br>
-https://pixabay.com/
+•	https://pixabay.com/
 <br>
 •	https://stocksnap.io/
 <br>
