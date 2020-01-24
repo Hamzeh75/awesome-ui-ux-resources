@@ -71,7 +71,7 @@ o	https://www.youtube.com/channel/UCeB_OpLspKJGiKv1CYkWFFw/videos
 <br>
 •	https://www.designernews.co/ 
 <br><br><br><br>
-Softwares</b>
+<b>Softwares</b>
 <br>
 •	Adobe XD (Mac and windows)
 <br>
