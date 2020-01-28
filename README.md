@@ -45,6 +45,8 @@ o	https://www.youtube.com/channel/UCeB_OpLspKJGiKv1CYkWFFw/videos
 <br><br><br><br>
 <b>Instagram Pages</b>
 <br>
+•	@interaction_design_foundation
+<br>
 •	@thefuturishere
 <br>
 •	@thechrisdo
