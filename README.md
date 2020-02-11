@@ -147,6 +147,8 @@ o	https://www.youtube.com/channel/UCeB_OpLspKJGiKv1CYkWFFw/videos
 <br>
 •	https://www.flaticon.com/
 <br>
+•	https://feathericons.com/
+<br>
 •	https://thenounproject.com/
 <br>
 •	https://www.iconfinder.com/
