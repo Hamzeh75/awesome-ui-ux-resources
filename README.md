@@ -149,8 +149,6 @@ o	https://www.youtube.com/channel/UCeB_OpLspKJGiKv1CYkWFFw/videos
 <br>
 •	https://feathericons.com/
 <br>
-•	https://feathericons.com/
-<br>
 •	https://thenounproject.com/
 <br>
 •	https://www.iconfinder.com/
@@ -302,4 +300,18 @@ o	https://www.youtube.com/channel/UCeB_OpLspKJGiKv1CYkWFFw/videos
 •	https://whereby.com/
 <br>
 •	https://login.invisionapp.com/
+<br><br><br><br>
+<b>Site map</b>
+<br>
+•	https://www.gloomaps.com/
+<br><br><br><br>
+<b>User testing</b>
+<br>
+•	https://maze.design/
+•	https://uxchecklist.github.io/
+•	https://www.usertesting.com/
+<br><br><br><br>
+<b>UI Kits</b>
+<br>
+•	https://www.uplabs.com/
 <br>
