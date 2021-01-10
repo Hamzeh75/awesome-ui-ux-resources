@@ -63,7 +63,7 @@ o	https://www.youtube.com/channel/UCeB_OpLspKJGiKv1CYkWFFw/videos
 <br>
 •	@lemi.design (Persian)
 <br>
-•	@amirome (Persian)
+•	@amiro.design (Persian)
 <br><br><br><br>
 <b>News and Articles</b>
 <br>
