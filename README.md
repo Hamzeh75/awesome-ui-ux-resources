@@ -80,7 +80,7 @@ o https://www.youtube.com/channel/UCZF_MdpbOKeA-WKkJcAflxA
 <br>
 • The Futur with Chris Do
 <br>
-https://castbox.fm/channel/The-Futur-with-Chris-Do-id1363896?nojump=1
+o https://castbox.fm/channel/The-Futur-with-Chris-Do-id1363896?nojump=1
 <br>
 •	Mowz Podcast (Persian)
 <br>
