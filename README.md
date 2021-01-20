@@ -126,7 +126,7 @@ o https://castbox.fm/channel/Mowz-Podcast-id2716564?nojump=1
 <br>
 •	Sketch (Mac)
 <br>
-•	invision studio (Mac and windows)
+•	Invision studio (Mac and windows)
 <br>
 •	Adobe Photoshop (mac and windows)
 <br>
