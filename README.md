@@ -24,24 +24,68 @@
 <br>
 •	Creative Strategy and the Business of Design
 <br>
+•	Design for How People Think 
+<br>
+•	Emotional Design Why We Love (Or Hate) Everyday Things
+<br>
+•	Grid Systems in Graphic - Josef Muller Brockmann
+<br>
+•	Layout Essentials
+<br>
+•	Sprint
+<br>
+•	Sprint
+<br>
+
+<br>
 •	Don’t Make Me Think	
 <br><br><br><br>
 <b>Youtube Channels</b>
 <br>
 •	The Futur
+<br>
 o	https://www.youtube.com/channel/UC-b3c7kxa5vU-bnmaROgvog
 <br>
 •	Flux
+<br>
 o	https://www.youtube.com/channel/UCN7dywl5wDxTu1RM3eJ_h9Q
 <br>
 •	CharlieMarieTV
+<br>
 o	https://www.youtube.com/channel/UCScRSwdX0t31gjk3MYXIuYQ
 <br>
 •	Caler Edwards
+<br>
 o	https://www.youtube.com/user/CalerEdwards
 <br>
 •	AJ&Smart
+<br>
 o	https://www.youtube.com/channel/UCeB_OpLspKJGiKv1CYkWFFw/videos
+•	Anfisa Bogomolova
+<br>
+o	https://www.youtube.com/channel/UCB01vJlSXFPt55gVu_qrq1Q
+<br>
+•	Faizur Rehman
+<br>
+o	https://www.youtube.com/channel/UCQR7vuOpqGq1MmY4HHvlTyw
+<br>
+•	Design burger school (Persian)
+<br>
+o	https://www.youtube.com/channel/UCoaQ0wFFnOyKLzPWKachRTg
+<br>
+•	Lemi (Persian)
+<br>
+o https://www.youtube.com/channel/UCZF_MdpbOKeA-WKkJcAflxA
+<br><br><br><br>
+<b>Podcasts</b>
+<br>
+• The Futur with Chris Do
+<br>
+https://castbox.fm/channel/The-Futur-with-Chris-Do-id1363896?nojump=1
+<br>
+•	Mowz Podcast (Persian)
+<br>
+o https://castbox.fm/channel/Mowz-Podcast-id2716564?nojump=1
 <br><br><br><br>
 <b>Instagram Pages</b>
 <br>
@@ -64,6 +108,8 @@ o	https://www.youtube.com/channel/UCeB_OpLspKJGiKv1CYkWFFw/videos
 •	@lemi.design (Persian)
 <br>
 •	@amiro.design (Persian)
+<br>
+•	@productfact_co (Persian)
 <br><br><br><br>
 <b>News and Articles</b>
 <br>
@@ -80,6 +126,8 @@ o	https://www.youtube.com/channel/UCeB_OpLspKJGiKv1CYkWFFw/videos
 •	Figma (Cross-platform)
 <br>
 •	Sketch (Mac)
+<br>
+•	invision studio (Mac and windows)
 <br>
 •	Adobe Photoshop (mac and windows)
 <br>
@@ -120,6 +168,44 @@ o	https://www.youtube.com/channel/UCeB_OpLspKJGiKv1CYkWFFw/videos
 •	Quick mockup
 <br>
 •	Uilogos
+<br><br><br><br>
+<b>Figma plugins</b>
+<br>
+•	Unsplash
+<br>
+•	Zeplin
+<br>
+• Charts
+<br>
+• Charts
+<br>
+•	Sympli Handoff
+<br>
+• Lorem ipsum
+<br>
+• Iconly
+<br>
+• Iconify
+<br>
+• Feather Icons
+<br>
+• Vectary 3D
+<br>
+• Map Maker
+<br>
+• RTL PLZ (Persian)
+<br>
+• Arabic & RTL Support
+<br>
+• Stark
+<br>
+• UI Faces
+<br>
+• Webgradients
+<br>
+• Remove BG
+<br>
+• Autoflow
 <br><br><br><br>
 <b>Google Chrome extensions</b>
 <br>
@@ -210,6 +296,8 @@ o	https://www.youtube.com/channel/UCeB_OpLspKJGiKv1CYkWFFw/videos
 •	https://www.pixeden.com/
 <br>
 •	https://freebiesbug.com/
+<br>
+•	https://www.rotato.xyz/
 <br>
 •	https://www.rotato.xyz/
 <br><br><br><br>
@@ -308,10 +396,14 @@ o	https://www.youtube.com/channel/UCeB_OpLspKJGiKv1CYkWFFw/videos
 <b>User testing</b>
 <br>
 •	https://maze.design/
-•	https://uxchecklist.github.io/
+<br>
 •	https://www.usertesting.com/
+<br>
+•	https://uxchecklist.github.io/
 <br><br><br><br>
 <b>UI Kits</b>
 <br>
 •	https://www.uplabs.com/
+<br>
+•	https://ui8.net/
 <br>
