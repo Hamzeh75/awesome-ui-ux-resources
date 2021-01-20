@@ -34,7 +34,7 @@
 <br>
 •	Sprint
 <br>
-•	Sprint
+•	Strategic Writing for UX Drive Engagement
 <br>
 
 <br>
