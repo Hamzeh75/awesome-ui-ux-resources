@@ -106,6 +106,8 @@ o https://castbox.fm/channel/Mowz-Podcast-id2716564?nojump=1
 <br>
 •	@lemi.design (Persian)
 <br>
+•	@piqodesign (Persian)
+<br>
 •	@amiro.design (Persian)
 <br>
 •	@productfact_co (Persian)
@@ -245,6 +247,8 @@ o https://castbox.fm/channel/Mowz-Podcast-id2716564?nojump=1
 •	https://material.io/resources/icons/?style=baseline
 <br>
 •	https://fontawesome.com/
+<Br>
+ • https://ui8.net/piqodesign
 <br><br><br><br>
 <b>Vectors</b>
 <br>
