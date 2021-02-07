@@ -102,11 +102,11 @@ o https://castbox.fm/channel/Mowz-Podcast-id2716564?nojump=1
 <br>
 •	@uxlore
 <br>
+•	@piqodesign
+<br>
 •	@marziuxd (Persian)
 <br>
 •	@lemi.design (Persian)
-<br>
-•	@piqodesign (Persian)
 <br>
 •	@amiro.design (Persian)
 <br>
@@ -248,7 +248,7 @@ o https://castbox.fm/channel/Mowz-Podcast-id2716564?nojump=1
 <br>
 •	https://fontawesome.com/
 <Br>
- • https://ui8.net/piqodesign
+• https://ui8.net/piqodesign
 <br><br><br><br>
 <b>Vectors</b>
 <br>
