@@ -409,4 +409,7 @@ o https://castbox.fm/channel/Mowz-Podcast-id2716564?nojump=1
 •	https://www.uplabs.com/
 <br>
 •	https://ui8.net/
+<br><br><br><br>
+<b>Free resource library for product designers</b>
 <br>
+•	https://www.designnotes.co/
