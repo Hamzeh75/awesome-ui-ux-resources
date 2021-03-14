@@ -38,6 +38,8 @@
 <br>
 •	Don’t Make Me Think	
 <br>
+•	Designing User Interfaces	
+<br>
 •	Refactoring UI
 <br><br><br><br>
 <b>Youtube Channels</b>
