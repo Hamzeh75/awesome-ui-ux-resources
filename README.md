@@ -160,7 +160,7 @@ o https://castbox.fm/channel/Mowz-Podcast-id2716564?nojump=1
 <br>
 •	ContentGenerator
 <br>
-•	Mimi
+•	Mimic
 <br>
 •	Stark
 <br>
